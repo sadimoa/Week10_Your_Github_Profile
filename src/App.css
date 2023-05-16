@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+
+.language,.date{
+  color: rgba(89, 89, 89, 0.889);
+  font-size: .8rem;
+}
